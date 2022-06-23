@@ -1,2 +1,2 @@
-# summer_research_ca22
-Research summer 2022 under Carolyn Anderson
+# problem sets for 6.034
+Fall 2021
